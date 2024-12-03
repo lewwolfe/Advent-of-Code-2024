@@ -11,8 +11,8 @@ This project documents my journey through the annual coding challenge, solving f
 | Day | Puzzle Status   |
 |-----|-----------------|
 | ✅ Day 1 | Completed       |
-| ⏰ Day 2 | Pending         |
-| ⏰ Day 3 | Pending         |
+| ⏰ Day 2 | Inprogress      |
+| ✅ Day 3 | Completed       |
 | ... | ...             |
 
 ---
