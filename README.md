@@ -13,6 +13,7 @@ This project documents my journey through the annual coding challenge, solving f
 | ✅ Day 1 | Completed       |
 | ✅ Day 2 | Completed       |
 | ✅ Day 3 | Completed       |
+| ✅ Day 4 | Completed       |
 | ... | ...             |
 
 ---
